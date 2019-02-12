@@ -1,4 +1,4 @@
-// Question 1
+// Question 1 adf
 var amount = parseFloat(prompt('Enter monetary amount:'))
 var rate = parseFloat(prompt('Enter decimal interest rate:'))
 var years = parseFloat(prompt('Enter number of years:'))
